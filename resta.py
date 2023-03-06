@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 Valor1=float(input("ingresar primer numero:"))
 Valor2=float(input("ingresar segundo numero:"))
 
